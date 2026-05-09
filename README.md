@@ -4,18 +4,6 @@ An intelligent, LLM-powered healthcare assistant built with **LLaMA 3.3**, **Fas
 
 ---
 
-## 🚀 Live Demo
-
-> Coming soon / [Add your deployed link here]
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your chatbot UI here
-
----
-
 ## ✨ Features
 
 - 🤖 **LLM-powered responses** using LLaMA 3.3 via Groq API
