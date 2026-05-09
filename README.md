@@ -205,11 +205,6 @@ POST /chat
 AI/ML Engineer · Delhi, India  
 📧 sadiyariyazkhan012@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/sadiya-riyaz-khan) · [GitHub](https://github.com/sadiyariyazkhan)
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
